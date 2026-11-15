@@ -1,0 +1,20 @@
+{
+  "vertices": 12964,
+  "triangles": 24674,
+  "character_meshes": 46,
+  "character_objects_with_rig_and_anchors": 72,
+  "materials": 5,
+  "packed_images": 14,
+  "bones": 52,
+  "accessory_masters": 29,
+  "complete_sets": 3,
+  "anchors": 25,
+  "rigid_accessories": 19,
+  "deforming_accessories": 10,
+  "max_weights": 4,
+  "rest_pose_saved": true,
+  "all_character_geometry_uv_weights_mounts_identical_to_verified_phase8": true,
+  "independent_library_load_verified": true,
+  "full_body_cameras_verified": true,
+  "render_border_disabled": true
+}

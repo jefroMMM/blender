@@ -1,0 +1,28 @@
+{
+  "character_meshes": 46,
+  "character_vertices": 13523,
+  "character_triangles": 25792,
+  "materials": 5,
+  "packed_images": 14,
+  "bones": 52,
+  "primary_masters": 29,
+  "unique_master_meshes": 29,
+  "sets": 3,
+  "anchors": 25,
+  "rigid_accessories": 17,
+  "deforming_accessories": 12,
+  "shared_meshes_verified": true,
+  "complete_set_part_placement_verified": true,
+  "canteen_anchor_motion_verified": true,
+  "master_transforms_identity": true,
+  "rest_pose_saved": true,
+  "visual_status": "reviewed manually; see REVISION_VISUAL.md",
+  "independent_library": {
+    "pieces": 29,
+    "mesh_datablocks": 29,
+    "rig_dependencies": 0,
+    "sets": 3,
+    "packed_textures": true
+  },
+  "complete_sets_loaded_independently": true
+}

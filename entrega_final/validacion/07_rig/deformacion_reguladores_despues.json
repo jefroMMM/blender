@@ -1,0 +1,32 @@
+{
+  "brazos_arriba": {
+    "STRAP | Regulador.L": {
+      "max_relative_length_change": 0.0,
+      "max_absolute_length_change_m": 0.0
+    },
+    "STRAP | Regulador.R": {
+      "max_relative_length_change": 0.0,
+      "max_absolute_length_change_m": 0.0
+    }
+  },
+  "torso": {
+    "STRAP | Regulador.L": {
+      "max_relative_length_change": 8.736148594779003e-05,
+      "max_absolute_length_change_m": 8.651101224971258e-08
+    },
+    "STRAP | Regulador.R": {
+      "max_relative_length_change": 8.736148594779003e-05,
+      "max_absolute_length_change_m": 8.652669847980521e-08
+    }
+  },
+  "correr": {
+    "STRAP | Regulador.L": {
+      "max_relative_length_change": 7.960248451965857e-05,
+      "max_absolute_length_change_m": 7.315799466223183e-08
+    },
+    "STRAP | Regulador.R": {
+      "max_relative_length_change": 7.960248451965857e-05,
+      "max_absolute_length_change_m": 7.315799466223183e-08
+    }
+  }
+}

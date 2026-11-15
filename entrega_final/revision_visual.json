@@ -1,0 +1,87 @@
+{
+  "status": "complete",
+  "inspected_images": [
+    {
+      "file": "renders/frontal.png",
+      "inspected": true,
+      "sha256": "ac16f8749122241fac1d64d4a637ca3b415729f8a88c3e339a4518d86be44f01"
+    },
+    {
+      "file": "renders/posterior.png",
+      "inspected": true,
+      "sha256": "5e5a49354f651c4bc7f2cd816f9307fdee97f9f8b7df77e40f9eb0d703227298"
+    },
+    {
+      "file": "renders/lateral.png",
+      "inspected": true,
+      "sha256": "44797a55a83da9fe357281a47af928a7cbe53f658d50bb03cea59e05f37c6210"
+    },
+    {
+      "file": "renders/tres_cuartos.png",
+      "inspected": true,
+      "sha256": "638861bb151458b72e684c8d91d18eb7aa3a97e5f6a2f9bb8e20336a9419bf77"
+    },
+    {
+      "file": "renders/rostro.png",
+      "inspected": true,
+      "sha256": "0a4d9b4af5a392c2703c04bea0af6e904f452786583c147cdc19ce5110967e94"
+    },
+    {
+      "file": "renders/rostro_lateral.png",
+      "inspected": true,
+      "sha256": "6ea21d04d79238448ee295351fe7b5c262c8f11e152b802a38dfe2d987bc0adb"
+    },
+    {
+      "file": "renders/uniforme_equipo.png",
+      "inspected": true,
+      "sha256": "45daca92ca33b1691d8f5b369301640974a53f91f2c5432e5dd93d6e6804de75"
+    },
+    {
+      "file": "renders/equipo_posterior.png",
+      "inspected": true,
+      "sha256": "f43c9fb795e7e768e3881459d474fbc523025a4ceff38668ad87c4cf4a72cf16"
+    },
+    {
+      "file": "renders/rostro_tres_cuartos.png",
+      "inspected": true,
+      "sha256": "b3337d27c4707f17f0aa4278fb15f851cd75f5fbe16c420e4b27480c4a362d88"
+    },
+    {
+      "file": "poses/brazos_arriba.png",
+      "inspected": true,
+      "sha256": "b5c468e588b4a297ac71f8804a5e40b7f6daf1e0162cd877a8f3a174fa0579a7"
+    },
+    {
+      "file": "poses/codos.png",
+      "inspected": true,
+      "sha256": "2c2c08d59c9cf16db6239df7656e92a339eb59a57b977469b69bb8b33890775b"
+    },
+    {
+      "file": "poses/torso.png",
+      "inspected": true,
+      "sha256": "173565cd9ff0fd3a792fb0d3e66cb8567db12e25b16f4c63907cd4c1945a8e18"
+    },
+    {
+      "file": "poses/cabeza_cuello.png",
+      "inspected": true,
+      "sha256": "ba30fd801b1c9622728ad1d5b034bf0db464a95df2b807ea712dfba99142a6be"
+    },
+    {
+      "file": "poses/caminar.png",
+      "inspected": true,
+      "sha256": "d323abcef38b1b70de633191f4b8e936dca9b3c9696ebb5e07081e750975173c"
+    },
+    {
+      "file": "poses/correr.png",
+      "inspected": true,
+      "sha256": "2beaa3235521f3178c46067c4c61da009f291ba448773c506e8bb4b3612735e6"
+    },
+    {
+      "file": "poses/agachado.png",
+      "inspected": true,
+      "sha256": "62edeb5cc275b2bb2ac9942b89afdf1e6d5633f096a8cdd8e5dd6336251802fa"
+    }
+  ],
+  "pending_images": [],
+  "notes": "Se abrieron las 16 imágenes finales con view_image, incluidas las versiones corregidas de encuadre. Revisión cualitativa en REVISION_VISUAL.md. Las poses son referencias estáticas, no ciclos terminados."
+}

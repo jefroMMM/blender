@@ -1,0 +1,294 @@
+[
+  {
+    "object": "CANTEEN | Recipiente y tapón",
+    "before_triangles": 1348,
+    "after_triangles": 674,
+    "ratio": 0.5,
+    "tolerance_m": 0.00065,
+    "sampled_surface_error_m": 0.0005844527040608227,
+    "shared_users_updated": 4,
+    "attempts": [
+      {
+        "ratio": 0.5,
+        "triangles": 674,
+        "sampled_surface_error_m": 0.0005844527040608227,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "object": "CANTEEN | Funda y soporte",
+    "before_triangles": 1478,
+    "after_triangles": 1034,
+    "ratio": 0.7,
+    "tolerance_m": 0.00055,
+    "sampled_surface_error_m": 0.0005109418416395783,
+    "shared_users_updated": 4,
+    "attempts": [
+      {
+        "ratio": 0.6,
+        "triangles": 886,
+        "sampled_surface_error_m": 0.0007832120754756033,
+        "valid": true
+      },
+      {
+        "ratio": 0.7,
+        "triangles": 1034,
+        "sampled_surface_error_m": 0.0005109418416395783,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "object": "POUCH | Utilitaria.L",
+    "before_triangles": 540,
+    "after_triangles": 540,
+    "skipped": "No valid reduction within surface tolerance",
+    "attempts": [
+      {
+        "ratio": 0.65,
+        "triangles": 350,
+        "sampled_surface_error_m": 0.0014040955575183034,
+        "valid": true
+      },
+      {
+        "ratio": 0.75,
+        "triangles": 404,
+        "sampled_surface_error_m": 0.0007533248863182962,
+        "valid": true
+      },
+      {
+        "ratio": 0.85,
+        "triangles": 458,
+        "sampled_surface_error_m": 0.0007533248863182962,
+        "valid": true
+      },
+      {
+        "ratio": 0.95,
+        "triangles": 512,
+        "sampled_surface_error_m": 0.0007533248863182962,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "object": "POUCH | Portacargadores.R",
+    "before_triangles": 1080,
+    "after_triangles": 1080,
+    "skipped": "No valid reduction within surface tolerance",
+    "attempts": [
+      {
+        "ratio": 0.65,
+        "triangles": 702,
+        "sampled_surface_error_m": 0.0012398178223520517,
+        "valid": true
+      },
+      {
+        "ratio": 0.75,
+        "triangles": 810,
+        "sampled_surface_error_m": 0.0012398178223520517,
+        "valid": true
+      },
+      {
+        "ratio": 0.85,
+        "triangles": 918,
+        "sampled_surface_error_m": 0.0012398178223520517,
+        "valid": true
+      },
+      {
+        "ratio": 0.95,
+        "triangles": 1026,
+        "sampled_surface_error_m": 0.0012398178223520517,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "object": "ACCESSORY | Casco reparado",
+    "before_triangles": 668,
+    "after_triangles": 668,
+    "skipped": "No valid reduction within surface tolerance",
+    "attempts": [
+      {
+        "ratio": 0.8,
+        "triangles": 534,
+        "sampled_surface_error_m": 0.00233614444732666,
+        "valid": true
+      },
+      {
+        "ratio": 0.9,
+        "triangles": 600,
+        "sampled_surface_error_m": 0.00233614444732666,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "object": "ACCESSORY | Manta enrollada",
+    "before_triangles": 486,
+    "after_triangles": 486,
+    "skipped": "No valid reduction within surface tolerance",
+    "attempts": [
+      {
+        "ratio": 0.7,
+        "triangles": 340,
+        "sampled_surface_error_m": 0.0021857349202036858,
+        "valid": true
+      },
+      {
+        "ratio": 0.8,
+        "triangles": 388,
+        "sampled_surface_error_m": 0.0016381293535232544,
+        "valid": true
+      },
+      {
+        "ratio": 0.9,
+        "triangles": 436,
+        "sampled_surface_error_m": 0.0016522705554962158,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "object": "ACCESSORY | Cuerda de carga",
+    "before_triangles": 358,
+    "after_triangles": 358,
+    "skipped": "No valid reduction within surface tolerance",
+    "attempts": [
+      {
+        "ratio": 0.7,
+        "triangles": 250,
+        "sampled_surface_error_m": 0.002309197559952736,
+        "valid": true
+      },
+      {
+        "ratio": 0.8,
+        "triangles": 286,
+        "sampled_surface_error_m": 0.0021076162811368704,
+        "valid": true
+      },
+      {
+        "ratio": 0.9,
+        "triangles": 322,
+        "sampled_surface_error_m": 0.0021076162811368704,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "object": "ACCESSORY | Mochila",
+    "before_triangles": 234,
+    "after_triangles": 234,
+    "skipped": "No valid reduction within surface tolerance",
+    "attempts": [
+      {
+        "ratio": 0.85,
+        "triangles": 198,
+        "sampled_surface_error_m": 0.034020766615867615,
+        "valid": true
+      },
+      {
+        "ratio": 0.95,
+        "triangles": 222,
+        "sampled_surface_error_m": 0.034020766615867615,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "object": "ACCESSORY | Placa hombro.L",
+    "before_triangles": 128,
+    "after_triangles": 128,
+    "skipped": "No valid reduction within surface tolerance",
+    "attempts": [
+      {
+        "ratio": 0.8,
+        "triangles": 102,
+        "sampled_surface_error_m": 0.0009386236779391766,
+        "valid": true
+      },
+      {
+        "ratio": 0.9,
+        "triangles": 114,
+        "sampled_surface_error_m": 0.0009386236779391766,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "object": "STRAP | Regulador.L",
+    "before_triangles": 220,
+    "after_triangles": 220,
+    "skipped": "No valid reduction within surface tolerance",
+    "attempts": [
+      {
+        "ratio": 0.5,
+        "triangles": 110,
+        "sampled_surface_error_m": 0.0002972582296933979,
+        "valid": true
+      },
+      {
+        "ratio": 0.6,
+        "triangles": 132,
+        "sampled_surface_error_m": 0.0002972582296933979,
+        "valid": true
+      },
+      {
+        "ratio": 0.7,
+        "triangles": 154,
+        "sampled_surface_error_m": 0.00023058457009028643,
+        "valid": true
+      },
+      {
+        "ratio": 0.8,
+        "triangles": 176,
+        "sampled_surface_error_m": 0.00022010551765561104,
+        "valid": true
+      },
+      {
+        "ratio": 0.9,
+        "triangles": 198,
+        "sampled_surface_error_m": 0.00021017914696130902,
+        "valid": true
+      }
+    ]
+  },
+  {
+    "object": "STRAP | Regulador.R",
+    "before_triangles": 220,
+    "after_triangles": 220,
+    "skipped": "No valid reduction within surface tolerance",
+    "attempts": [
+      {
+        "ratio": 0.5,
+        "triangles": 110,
+        "sampled_surface_error_m": 0.0002972582296933979,
+        "valid": true
+      },
+      {
+        "ratio": 0.6,
+        "triangles": 132,
+        "sampled_surface_error_m": 0.0002972582296933979,
+        "valid": true
+      },
+      {
+        "ratio": 0.7,
+        "triangles": 154,
+        "sampled_surface_error_m": 0.00023058457009028643,
+        "valid": true
+      },
+      {
+        "ratio": 0.8,
+        "triangles": 176,
+        "sampled_surface_error_m": 0.00022010551765561104,
+        "valid": true
+      },
+      {
+        "ratio": 0.9,
+        "triangles": 198,
+        "sampled_surface_error_m": 0.00021017914696130902,
+        "valid": true
+      }
+    ]
+  }
+]

@@ -1,13 +1,283 @@
 [
   {
     "file": ".gitattributes",
-    "bytes": 157,
-    "sha256": "4995d0ff05178848885d73b55715c88e905082c085fa4a5253ca106341f4913a"
+    "bytes": 174,
+    "sha256": "376ba1e2ac6b80a18b2cf93b7a0300d9db263aff17da94910e543a0bb4249337"
   },
   {
     "file": ".gitignore",
     "bytes": 59,
     "sha256": "1c3567957d42750543a7b281d86f2cdc5d2b02d5dc71619e8c48988453524ad4"
+  },
+  {
+    "file": "entrega_final/auditoria_glb.json",
+    "bytes": 1140,
+    "sha256": "c4759e9c51f29fe41ebd4b9d0baa7d5612d71e46daaf106cbd7cdb867662a609"
+  },
+  {
+    "file": "entrega_final/auditoria_nativo.json",
+    "bytes": 545,
+    "sha256": "fa2e9e8fc07a602f62f41f507597d93290a01b3e534998d4939c86da23670f07"
+  },
+  {
+    "file": "entrega_final/Biblioteca_Umbral.blend",
+    "bytes": 12172795,
+    "sha256": "2784081a82160c4bfb5c70f08def03588e3c9ddcfdacac1a7cc557093c6f0651"
+  },
+  {
+    "file": "entrega_final/blender_assets.cats.txt",
+    "bytes": 484,
+    "sha256": "258df23d932e0d87b6c6ff7b35b62fc055790af4a9e2e7c5a0e8d997c63bf466"
+  },
+  {
+    "file": "entrega_final/camaras.json",
+    "bytes": 3198,
+    "sha256": "46083e3dae61ca21faa4d8081b9a3c1b8b56ddfeb13a1ed12c3f0d75bcd1efb1"
+  },
+  {
+    "file": "entrega_final/catalogo.json",
+    "bytes": 21580,
+    "sha256": "0c9a2afb8aa7ab6f7c06bb880241b62d8a2ca348bbd7510609f6190298362477"
+  },
+  {
+    "file": "entrega_final/esqueleto.json",
+    "bytes": 18885,
+    "sha256": "029e4a741ac6fc1a710ce11e5878293b5ecab7bec052b493475d2d6eae4457f4"
+  },
+  {
+    "file": "entrega_final/FUENTES_Y_LICENCIAS.md",
+    "bytes": 1309,
+    "sha256": "783c76eaad5052fa69aa21c58ee24231f98b90a0974bb868a1edd68d498b56f9"
+  },
+  {
+    "file": "entrega_final/humanoide.json",
+    "bytes": 1740,
+    "sha256": "dd44f6235a6ca3c4634068487cfaad09329adecb80e8e5aff5cc504c96ab20e7"
+  },
+  {
+    "file": "entrega_final/INFORME_FINAL.md",
+    "bytes": 8549,
+    "sha256": "0bab9b596c5df1f0519bedfc135c98abce7a94fecfe202d365f600c28e10deb8"
+  },
+  {
+    "file": "entrega_final/LICENSE.ASSETS.md",
+    "bytes": 6962,
+    "sha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
+  },
+  {
+    "file": "entrega_final/MATRIZ_REQUISITOS.md",
+    "bytes": 8864,
+    "sha256": "27192b9629f5b60447686877a2aa6e383d457dbea8140844619e3d4a304ad3c1"
+  },
+  {
+    "file": "entrega_final/poses_referencia.py",
+    "bytes": 3489,
+    "sha256": "9292f8484903d0bbe9b653f945794795fd3393d227f2c98fdd638afa1e516d2c"
+  },
+  {
+    "file": "entrega_final/poses_verificadas.json",
+    "bytes": 22607,
+    "sha256": "17f60f8bf24dcf318d24961b806fa348202ce75eb89b8c6046860846fc777aa8"
+  },
+  {
+    "file": "entrega_final/poses/agachado.png",
+    "bytes": 1202897,
+    "sha256": "62edeb5cc275b2bb2ac9942b89afdf1e6d5633f096a8cdd8e5dd6336251802fa"
+  },
+  {
+    "file": "entrega_final/poses/brazos_arriba.png",
+    "bytes": 1162372,
+    "sha256": "b5c468e588b4a297ac71f8804a5e40b7f6daf1e0162cd877a8f3a174fa0579a7"
+  },
+  {
+    "file": "entrega_final/poses/cabeza_cuello.png",
+    "bytes": 1183559,
+    "sha256": "ba30fd801b1c9622728ad1d5b034bf0db464a95df2b807ea712dfba99142a6be"
+  },
+  {
+    "file": "entrega_final/poses/caminar.png",
+    "bytes": 1165562,
+    "sha256": "d323abcef38b1b70de633191f4b8e936dca9b3c9696ebb5e07081e750975173c"
+  },
+  {
+    "file": "entrega_final/poses/codos.png",
+    "bytes": 1165708,
+    "sha256": "2c2c08d59c9cf16db6239df7656e92a339eb59a57b977469b69bb8b33890775b"
+  },
+  {
+    "file": "entrega_final/poses/correr.png",
+    "bytes": 1176923,
+    "sha256": "2beaa3235521f3178c46067c4c61da009f291ba448773c506e8bb4b3612735e6"
+  },
+  {
+    "file": "entrega_final/poses/torso.png",
+    "bytes": 1180851,
+    "sha256": "173565cd9ff0fd3a792fb0d3e66cb8567db12e25b16f4c63907cd4c1945a8e18"
+  },
+  {
+    "file": "entrega_final/renders/equipo_posterior.png",
+    "bytes": 1347457,
+    "sha256": "f43c9fb795e7e768e3881459d474fbc523025a4ceff38668ad87c4cf4a72cf16"
+  },
+  {
+    "file": "entrega_final/renders/frontal.png",
+    "bytes": 1500996,
+    "sha256": "ac16f8749122241fac1d64d4a637ca3b415729f8a88c3e339a4518d86be44f01"
+  },
+  {
+    "file": "entrega_final/renders/lateral.png",
+    "bytes": 1461339,
+    "sha256": "44797a55a83da9fe357281a47af928a7cbe53f658d50bb03cea59e05f37c6210"
+  },
+  {
+    "file": "entrega_final/renders/posterior.png",
+    "bytes": 1471726,
+    "sha256": "5e5a49354f651c4bc7f2cd816f9307fdee97f9f8b7df77e40f9eb0d703227298"
+  },
+  {
+    "file": "entrega_final/renders/rostro_lateral.png",
+    "bytes": 1366305,
+    "sha256": "6ea21d04d79238448ee295351fe7b5c262c8f11e152b802a38dfe2d987bc0adb"
+  },
+  {
+    "file": "entrega_final/renders/rostro_tres_cuartos.png",
+    "bytes": 1360876,
+    "sha256": "b3337d27c4707f17f0aa4278fb15f851cd75f5fbe16c420e4b27480c4a362d88"
+  },
+  {
+    "file": "entrega_final/renders/rostro.png",
+    "bytes": 1355149,
+    "sha256": "0a4d9b4af5a392c2703c04bea0af6e904f452786583c147cdc19ce5110967e94"
+  },
+  {
+    "file": "entrega_final/renders/tres_cuartos.png",
+    "bytes": 1516671,
+    "sha256": "638861bb151458b72e684c8d91d18eb7aa3a97e5f6a2f9bb8e20336a9419bf77"
+  },
+  {
+    "file": "entrega_final/renders/uniforme_equipo.png",
+    "bytes": 1354713,
+    "sha256": "45daca92ca33b1691d8f5b369301640974a53f91f2c5432e5dd93d6e6804de75"
+  },
+  {
+    "file": "entrega_final/revision_visual.json",
+    "bytes": 2863,
+    "sha256": "f62b8e3a853824b04351e7f6bae987f2adedc64973f5e3a660692db0e96217bf"
+  },
+  {
+    "file": "entrega_final/REVISION_VISUAL.md",
+    "bytes": 2999,
+    "sha256": "146a28849e33ac54bae5a1f99a3d0a5503e6f92f89bf247ad57729f2b4693064"
+  },
+  {
+    "file": "entrega_final/validacion/01_rostro/auditoria_tecnica.json",
+    "bytes": 285,
+    "sha256": "99e71a3413caaf40ada63ebe101b7fde4dcda8a76fec5b2a1a4af5d7f4a89954"
+  },
+  {
+    "file": "entrega_final/validacion/01_rostro/REVISION_VISUAL.md",
+    "bytes": 1611,
+    "sha256": "91d18c216360d1f263fd65d685dd8e6e7ca6f28038627b440f34e7fdb66a1c7a"
+  },
+  {
+    "file": "entrega_final/validacion/02_anatomia/auditoria_final.json",
+    "bytes": 251,
+    "sha256": "9b2b6e9b1b962cc73cd1dc15257f0119ace105d619e0877b02168a79055c81e1"
+  },
+  {
+    "file": "entrega_final/validacion/02_anatomia/REVISION_VISUAL.md",
+    "bytes": 2454,
+    "sha256": "5f08d76f7149f827f02a0020952af50bb6623988915fbdeffd4f6b96b7cdfd96"
+  },
+  {
+    "file": "entrega_final/validacion/03_uniforme/auditoria.json",
+    "bytes": 470,
+    "sha256": "7f2ef45279d8c121bbfa35f734891ceebbb2df283ea01ee992d5642813fdc074"
+  },
+  {
+    "file": "entrega_final/validacion/03_uniforme/REVISION_VISUAL.md",
+    "bytes": 3913,
+    "sha256": "5f6107ad2b28e5b0564badc071fa4c33eaac946e8c65fa5d55d95ae717486ad0"
+  },
+  {
+    "file": "entrega_final/validacion/04_botas/auditoria.json",
+    "bytes": 2049,
+    "sha256": "2abea123d6f8231939bed48742908ea5f1cd5ba6f3a773b55e775435326ecafb"
+  },
+  {
+    "file": "entrega_final/validacion/04_botas/REVISION_VISUAL.md",
+    "bytes": 3990,
+    "sha256": "cdc57bc67333cd25a1727d17d3b6dd1e32596db0172cefb86a6f5ce085154722"
+  },
+  {
+    "file": "entrega_final/validacion/05_desgaste/auditoria.json",
+    "bytes": 1658,
+    "sha256": "44774594bec88191e4178c7619b97de8b076fab528f01e088486390c7650ae52"
+  },
+  {
+    "file": "entrega_final/validacion/05_desgaste/REVISION_VISUAL.md",
+    "bytes": 4863,
+    "sha256": "0d0e32f878a8c71f85e1cbb6f5b34bac796cb64b759d538bddfa697e38ba6c72"
+  },
+  {
+    "file": "entrega_final/validacion/06_modular/auditoria_final.json",
+    "bytes": 737,
+    "sha256": "7b0da91c1f43be09ca87c47d542e8b69dca1c60fd6dca90b6827891014c52408"
+  },
+  {
+    "file": "entrega_final/validacion/06_modular/REVISION_VISUAL.md",
+    "bytes": 4761,
+    "sha256": "ac877683e99295e90a78fd5e6473660a35007d6a5b773708d2d2954a32358ccf"
+  },
+  {
+    "file": "entrega_final/validacion/07_rig/auditoria_final.json",
+    "bytes": 920,
+    "sha256": "f7d150ddad01f17f5a0f687b1c6448cfef9e4f56f96bd45961be9c39c9bc311c"
+  },
+  {
+    "file": "entrega_final/validacion/07_rig/correcciones_pesos.json",
+    "bytes": 446,
+    "sha256": "7c6fd8abe1b0543f240fa887ca9f75cce83f004dc59ff18277e189453b91fa71"
+  },
+  {
+    "file": "entrega_final/validacion/07_rig/deformacion_reguladores_despues.json",
+    "bytes": 921,
+    "sha256": "642966a2485e627b08e2f94d52ec0bc48bff86e08241f94f71e01609e0b89124"
+  },
+  {
+    "file": "entrega_final/validacion/07_rig/REVISION_VISUAL.md",
+    "bytes": 2065,
+    "sha256": "d30525941b39da86a77c4047fae2fd4c69dd741fa0dcc9dbd74437cda13272cb"
+  },
+  {
+    "file": "entrega_final/validacion/08_materiales/auditoria_final.json",
+    "bytes": 7450,
+    "sha256": "fdfe68d92038f57055ee1fb831337dcdb794537a90922e58682353d9f9f21189"
+  },
+  {
+    "file": "entrega_final/validacion/08_materiales/LEEME.md",
+    "bytes": 3658,
+    "sha256": "f3c3cd5a720d4966da350c8bcf82f6406750e073cfa19f1b5a0db489888365ba"
+  },
+  {
+    "file": "entrega_final/validacion/08_materiales/optimizacion.json",
+    "bytes": 7063,
+    "sha256": "a5e2b2f1ed7859490c3524b26fab6ec8c8b79af702ff06deb0455cf70ec885f5"
+  },
+  {
+    "file": "entrega_final/validacion/08_materiales/REVISION_VISUAL.md",
+    "bytes": 1560,
+    "sha256": "36bd62dc96e97406aa93d2b26fb691cc93f94f03983d89c6337de6fb6f480e69"
+  },
+  {
+    "file": "entrega_final/Vigias_del_Umbral.blend",
+    "bytes": 19621119,
+    "sha256": "ef3ef20f9754fd2e4945c54b4d9141faa455f04c4c44d320ea847dcaa13a3b12"
+  },
+  {
+    "file": "entrega_final/Vigias_del_Umbral.glb",
+    "bytes": 20327668,
+    "sha256": "1b7a51148209f7a53272d733eb62d91ac2517efa430c5b34c1a990ee537d1f0d"
   },
   {
     "file": "FUENTES_Y_LICENCIAS.md",
@@ -21,8 +291,8 @@
   },
   {
     "file": "README.md",
-    "bytes": 2600,
-    "sha256": "8296f5304caf5ca8c5e1eb0da6020df8a79ac3a44dcd6dd2f16efa310e0ef7e4"
+    "bytes": 2794,
+    "sha256": "64a498c239737621df596f2c8d3f7603749a55405363128c2b2a9c03d620a643"
   },
   {
     "file": "refinamiento_en_curso/07_Rig.blend",

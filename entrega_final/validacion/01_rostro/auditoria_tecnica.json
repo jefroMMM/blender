@@ -1,0 +1,13 @@
+{
+  "mesh_objects": 44,
+  "unchanged_meshes": 43,
+  "weights_preserved": true,
+  "topology_preserved": true,
+  "uv_preserved": true,
+  "max_head_displacement_m": 0.0014824271381828802,
+  "packed_images": 14,
+  "triangles": 24621,
+  "vertices": 12870,
+  "materials": 5,
+  "bones": 52
+}

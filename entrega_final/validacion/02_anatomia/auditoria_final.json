@@ -1,0 +1,10 @@
+{
+  "geometry_uv_topology_preserved": true,
+  "weights_changed_only_on_pants": true,
+  "max_influences": 4,
+  "normalized_weights": true,
+  "rest_pose_restored": true,
+  "bones": 52,
+  "mesh_objects": 44,
+  "visual_review": "see REVISION_VISUAL.md"
+}

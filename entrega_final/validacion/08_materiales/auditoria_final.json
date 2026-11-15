@@ -1,0 +1,346 @@
+{
+  "vertices": 12964,
+  "triangles": 24674,
+  "character_meshes": 46,
+  "character_objects_including_rig_and_anchors": 72,
+  "materials": 5,
+  "images": 14,
+  "bones": 52,
+  "max_influences": 4,
+  "changed_meshes": [
+    "CANTEEN | Recipiente y tapón",
+    "CANTEEN | Funda y soporte"
+  ],
+  "unchanged_meshes": 44,
+  "all_deforming_mesh_geometry_uv_weights_preserved": true,
+  "no_subdivision_or_unapplied_geometry_modifiers": true,
+  "packed_images": true,
+  "shared_accessory_masters": 29,
+  "sets": 3,
+  "anchors": 25,
+  "rest_pose": true,
+  "texture_rgba8_bytes": 171966464,
+  "textures": [
+    {
+      "name": "Umbral_Cantimplora_ORM_PBR08",
+      "width": 1024,
+      "height": 1024,
+      "colorspace": "Non-Color"
+    },
+    {
+      "name": "Modular_Equipo_ORM_PBR08",
+      "width": 2048,
+      "height": 2048,
+      "colorspace": "Non-Color"
+    },
+    {
+      "name": "Refinado_Piel_BaseColor",
+      "width": 2048,
+      "height": 2048,
+      "colorspace": "sRGB"
+    },
+    {
+      "name": "Umbral_Uniforme_BaseColor",
+      "width": 2048,
+      "height": 2048,
+      "colorspace": "sRGB"
+    },
+    {
+      "name": "Umbral_Uniforme_Normal_PBR08",
+      "width": 2048,
+      "height": 2048,
+      "colorspace": "Non-Color"
+    },
+    {
+      "name": "Umbral_Uniforme_ORM_PBR08",
+      "width": 2048,
+      "height": 2048,
+      "colorspace": "Non-Color"
+    },
+    {
+      "name": "Ojos_BaseColor",
+      "width": 1024,
+      "height": 1024,
+      "colorspace": "sRGB"
+    },
+    {
+      "name": "Ojos_Normal_Revisado",
+      "width": 1024,
+      "height": 1024,
+      "colorspace": "Non-Color"
+    },
+    {
+      "name": "Modular_Equipo_Normal_PBR08",
+      "width": 2048,
+      "height": 2048,
+      "colorspace": "Non-Color"
+    },
+    {
+      "name": "Umbral_Cantimplora_BaseColor",
+      "width": 1024,
+      "height": 1024,
+      "colorspace": "sRGB"
+    },
+    {
+      "name": "Umbral_Cantimplora_Normal_PBR08",
+      "width": 1024,
+      "height": 1024,
+      "colorspace": "Non-Color"
+    },
+    {
+      "name": "Modular_Equipo_BaseColor",
+      "width": 2048,
+      "height": 2048,
+      "colorspace": "sRGB"
+    },
+    {
+      "name": "Refinado_Piel_Normal",
+      "width": 2048,
+      "height": 2048,
+      "colorspace": "Non-Color"
+    },
+    {
+      "name": "Refinado_Piel_ORM",
+      "width": 2048,
+      "height": 2048,
+      "colorspace": "Non-Color"
+    }
+  ],
+  "mesh_stats": [
+    {
+      "object": "BODY | Pantalón",
+      "vertices": 745,
+      "triangles": 1411
+    },
+    {
+      "object": "BODY | Mano.L",
+      "vertices": 710,
+      "triangles": 1399
+    },
+    {
+      "object": "BODY | Mano.R",
+      "vertices": 710,
+      "triangles": 1399
+    },
+    {
+      "object": "HEAD | Rostro y cuello",
+      "vertices": 2265,
+      "triangles": 4485
+    },
+    {
+      "object": "HEAD | Ojo.L",
+      "vertices": 156,
+      "triangles": 300
+    },
+    {
+      "object": "HEAD | Ojo.R",
+      "vertices": 156,
+      "triangles": 300
+    },
+    {
+      "object": "SHIRT | Cuerpo y mangas",
+      "vertices": 1143,
+      "triangles": 2183
+    },
+    {
+      "object": "SHIRT | Botones",
+      "vertices": 56,
+      "triangles": 92
+    },
+    {
+      "object": "SHIRT | Pie de cuello",
+      "vertices": 150,
+      "triangles": 296
+    },
+    {
+      "object": "SHIRT | Cuello vuelto.L",
+      "vertices": 14,
+      "triangles": 24
+    },
+    {
+      "object": "SHIRT | Pespunte cuello.L",
+      "vertices": 12,
+      "triangles": 20
+    },
+    {
+      "object": "SHIRT | Cuello vuelto.R",
+      "vertices": 14,
+      "triangles": 24
+    },
+    {
+      "object": "SHIRT | Pespunte cuello.R",
+      "vertices": 12,
+      "triangles": 20
+    },
+    {
+      "object": "SHIRT | Tapeta continua",
+      "vertices": 100,
+      "triangles": 196
+    },
+    {
+      "object": "SHIRT | Botón",
+      "vertices": 42,
+      "triangles": 80
+    },
+    {
+      "object": "SHIRT | Botón.001",
+      "vertices": 42,
+      "triangles": 80
+    },
+    {
+      "object": "SHIRT | Botón.002",
+      "vertices": 42,
+      "triangles": 80
+    },
+    {
+      "object": "POCKET | Pecho.R",
+      "vertices": 268,
+      "triangles": 516
+    },
+    {
+      "object": "POCKET | Faldón.R",
+      "vertices": 268,
+      "triangles": 516
+    },
+    {
+      "object": "POCKET | Pecho.L",
+      "vertices": 268,
+      "triangles": 516
+    },
+    {
+      "object": "POCKET | Faldón.L",
+      "vertices": 268,
+      "triangles": 516
+    },
+    {
+      "object": "BOOTS | Bota.L",
+      "vertices": 742,
+      "triangles": 1268
+    },
+    {
+      "object": "BOOTS | Bota.R",
+      "vertices": 745,
+      "triangles": 1271
+    },
+    {
+      "object": "BELT | Cinturón",
+      "vertices": 83,
+      "triangles": 166
+    },
+    {
+      "object": "BELT | Hebilla y pasador",
+      "vertices": 36,
+      "triangles": 52
+    },
+    {
+      "object": "STRAP | Tirante.R",
+      "vertices": 101,
+      "triangles": 198
+    },
+    {
+      "object": "STRAP | Tirante.L",
+      "vertices": 100,
+      "triangles": 196
+    },
+    {
+      "object": "STRAP | Regulador.L",
+      "vertices": 120,
+      "triangles": 220
+    },
+    {
+      "object": "STRAP | Regulador.R",
+      "vertices": 120,
+      "triangles": 220
+    },
+    {
+      "object": "STRAP | Barboquejo.L",
+      "vertices": 10,
+      "triangles": 16
+    },
+    {
+      "object": "STRAP | Barboquejo.R",
+      "vertices": 10,
+      "triangles": 16
+    },
+    {
+      "object": "STRAP | Cierre mochila.L",
+      "vertices": 104,
+      "triangles": 188
+    },
+    {
+      "object": "STRAP | Cierre mochila.R",
+      "vertices": 106,
+      "triangles": 192
+    },
+    {
+      "object": "POUCH | Utilitaria.L",
+      "vertices": 284,
+      "triangles": 540
+    },
+    {
+      "object": "POUCH | Portacargadores.R",
+      "vertices": 568,
+      "triangles": 1080
+    },
+    {
+      "object": "POCKET | Mochila exterior",
+      "vertices": 50,
+      "triangles": 92
+    },
+    {
+      "object": "CANTEEN | Recipiente y tapón",
+      "vertices": 347,
+      "triangles": 674
+    },
+    {
+      "object": "CANTEEN | Funda y soporte",
+      "vertices": 535,
+      "triangles": 1034
+    },
+    {
+      "object": "ACCESSORY | Casco reparado",
+      "vertices": 359,
+      "triangles": 668
+    },
+    {
+      "object": "ACCESSORY | Manta enrollada",
+      "vertices": 247,
+      "triangles": 486
+    },
+    {
+      "object": "ACCESSORY | Cuerda de carga",
+      "vertices": 187,
+      "triangles": 358
+    },
+    {
+      "object": "ACCESSORY | Mochila",
+      "vertices": 125,
+      "triangles": 234
+    },
+    {
+      "object": "ACCESSORY | Placa hombro.L",
+      "vertices": 74,
+      "triangles": 128
+    },
+    {
+      "object": "ACCESSORY | Venda.R",
+      "vertices": 96,
+      "triangles": 192
+    },
+    {
+      "object": "REPAIR | Codo.R",
+      "vertices": 219,
+      "triangles": 430
+    },
+    {
+      "object": "REPAIR | Rodilla.L",
+      "vertices": 155,
+      "triangles": 302
+    }
+  ],
+  "triangles_removed": 1118,
+  "above_20000_triangles": 4674,
+  "above_20000_percent": 23.37,
+  "budget_explanation": "Detailed face/neck, individually weighted hands and fingers, complete reusable boots and independent equipment retained. Only rigid canteen surfaces reduced after sampled bidirectional surface-distance checks. Joint loops untouched. This is a deliberate, documented deviation from the approximate 12k–20k target, not a claim of meeting 20k.",
+  "independent_library_valid": true
+}

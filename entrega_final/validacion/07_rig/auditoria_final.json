@@ -1,0 +1,36 @@
+{
+  "vertices": 13523,
+  "triangles": 25792,
+  "character_meshes": 46,
+  "materials": 5,
+  "packed_images": 14,
+  "bones": 52,
+  "bone_collections": {
+    "01 Cuerpo": 6,
+    "02 Brazos": 8,
+    "03 Piernas": 8,
+    "04 Dedos": 30
+  },
+  "max_influences": 4,
+  "normalized_weights": true,
+  "geometry_uv_skeleton_preserved": true,
+  "max_rest_world_change_m": 1.4901161193847656e-08,
+  "weights_changed": [
+    "SHIRT | Cuerpo y mangas",
+    "STRAP | Tirante.R",
+    "STRAP | Tirante.L",
+    "STRAP | Regulador.L",
+    "STRAP | Regulador.R",
+    "REPAIR | Codo.R"
+  ],
+  "accessory_masters": 29,
+  "assemblies": 3,
+  "anchors": 25,
+  "rigid_accessories": 19,
+  "deforming_accessories": 10,
+  "skinned_character_meshes": 27,
+  "rest_pose_saved": true,
+  "humanoid_mapping_valid": true,
+  "visual_review": "See REVISION_VISUAL.md; reference FK poses, not finished animation cycles.",
+  "independent_library_valid": true
+}

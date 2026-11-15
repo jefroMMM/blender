@@ -1,0 +1,32 @@
+{
+  "native_file": "Vigias_del_Umbral.blend",
+  "glb_file": "Vigias_del_Umbral.glb",
+  "meshes": 46,
+  "native_triangles": 24674,
+  "glb_binary_triangles": 24673,
+  "reimported_triangles": 24673,
+  "triangle_differences_after_reimport": {
+    "CANTEEN | Funda y soporte": 1
+  },
+  "materials": 5,
+  "embedded_images": 14,
+  "bones": 52,
+  "tangents_exported": true,
+  "finished_animation_cycles": false,
+  "rest_surface_error_m": 6.118457918091735e-07,
+  "pose_surface_errors_m": {
+    "brazos_arriba": 1.5738395404696348e-06,
+    "codos": 1.1059031521654106e-06,
+    "torso": 1.1023350907635177e-06,
+    "cabeza_cuello": 1.09318068552966e-06,
+    "caminar": 3.961831680499017e-06,
+    "correr": 1.0218400348094292e-05,
+    "agachado": 1.0763562386273406e-05
+  },
+  "importer_generated_bone_widgets_excluded": [
+    "Icosphere"
+  ],
+  "test_method": "GLB reimport; native world-space joint deltas applied to imported rest bones; nearest-surface vertex comparisons in both directions per mesh. This checks geometry/rig transfer, not identical rendering across engines.",
+  "native_camera_full_body": true,
+  "render_border_disabled": true
+}

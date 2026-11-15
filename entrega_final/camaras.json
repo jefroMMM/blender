@@ -1,0 +1,148 @@
+{
+  "frontal": {
+    "camera": "FINAL | frontal",
+    "resolution": [
+      1000,
+      1400
+    ],
+    "projected_bounds_xy": [
+      [
+        0.06034857779741287,
+        0.053571462631225586
+      ],
+      [
+        0.9396514296531677,
+        0.9464285969734192
+      ]
+    ],
+    "all_subject_points_inside_frame": true,
+    "camera_elevation_note": "Slight downward angle (~8.5 degrees), keeping front/rear/side azimuth, to avoid studio-floor horizon through the figure."
+  },
+  "posterior": {
+    "camera": "FINAL | posterior",
+    "resolution": [
+      1000,
+      1400
+    ],
+    "projected_bounds_xy": [
+      [
+        0.05711890012025833,
+        0.0535714253783226
+      ],
+      [
+        0.9428811073303223,
+        0.9464285969734192
+      ]
+    ],
+    "all_subject_points_inside_frame": true,
+    "camera_elevation_note": "Slight downward angle (~8.5 degrees), keeping front/rear/side azimuth, to avoid studio-floor horizon through the figure."
+  },
+  "lateral": {
+    "camera": "FINAL | lateral",
+    "resolution": [
+      1000,
+      1400
+    ],
+    "projected_bounds_xy": [
+      [
+        0.32814064621925354,
+        0.05357145890593529
+      ],
+      [
+        0.6718593239784241,
+        0.9464285969734192
+      ]
+    ],
+    "all_subject_points_inside_frame": true,
+    "camera_elevation_note": "Slight downward angle (~8.5 degrees), keeping front/rear/side azimuth, to avoid studio-floor horizon through the figure."
+  },
+  "tres_cuartos": {
+    "camera": "FINAL | tres_cuartos",
+    "resolution": [
+      1000,
+      1400
+    ],
+    "projected_bounds_xy": [
+      [
+        0.10846275091171265,
+        0.05357148498296738
+      ],
+      [
+        0.8915373086929321,
+        0.9464284777641296
+      ]
+    ],
+    "all_subject_points_inside_frame": true
+  },
+  "rostro": {
+    "camera": "FINAL | rostro",
+    "resolution": [
+      1000,
+      1200
+    ],
+    "projected_bounds_xy": [
+      [
+        0.1613435000181198,
+        0.0689656212925911
+      ],
+      [
+        0.838656485080719,
+        0.9310345649719238
+      ]
+    ],
+    "all_subject_points_inside_frame": true
+  },
+  "rostro_lateral": {
+    "camera": "FINAL | rostro_lateral",
+    "resolution": [
+      1000,
+      1200
+    ],
+    "projected_bounds_xy": [
+      [
+        0.07620585709810257,
+        0.06896539777517319
+      ],
+      [
+        0.923794150352478,
+        0.9310343265533447
+      ]
+    ],
+    "all_subject_points_inside_frame": true
+  },
+  "rostro_tres_cuartos": {
+    "camera": "FINAL | rostro_tres_cuartos",
+    "resolution": [
+      1000,
+      1200
+    ],
+    "projected_bounds_xy": [
+      [
+        0.15359129011631012,
+        0.06896531581878662
+      ],
+      [
+        0.8464087247848511,
+        0.9310343265533447
+      ]
+    ],
+    "all_subject_points_inside_frame": true,
+    "camera_elevation_note": "Slight elevation to remove the studio-floor boundary from the background."
+  },
+  "uniforme_equipo": {
+    "camera": "FINAL | uniforme_equipo",
+    "resolution": [
+      1100,
+      1100
+    ],
+    "detail_view": true
+  },
+  "equipo_posterior": {
+    "camera": "FINAL | equipo_posterior",
+    "resolution": [
+      1100,
+      1100
+    ],
+    "detail_view": true
+  }
+}

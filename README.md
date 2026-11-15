@@ -1,33 +1,32 @@
-# Soldado raso v2
+# Soldado raso v2 — Vigías del Umbral
 
-Personaje militar de una facción ficticia, preparado en Blender con equipamiento modular y un rig humanoide básico.
+Personaje de una facción militar ficticia, con uniforme inspirado en la Segunda Guerra Mundial y desgaste postapocalíptico moderado.
 
-## Versión v2
+## Entrega actual
 
-Abre **[Ceniza_Modular_v2.blend](soldado_raso_v2/Ceniza_Modular_v2.blend)** en Blender. Incluye las correcciones de cantimplora y botas: la cantimplora tiene funda y trabillas al cinturón, y las botas tienen proporciones más ajustadas.
+La carpeta `entrega_final/` contiene el refinamiento verificado tras las nueve fases.
 
-- [Ceniza_Modular_v2.glb](soldado_raso_v2/Ceniza_Modular_v2.glb): exportación con texturas embebidas y rig.
-- [Biblioteca_Ceniza_v2.blend](soldado_raso_v2/Biblioteca_Ceniza_v2.blend): 23 accesorios reutilizables.
-- 12.870 vértices, 24.621 triángulos, 44 mallas, cinco materiales y 52 huesos.
-- Las texturas están empaquetadas en los archivos Blender.
+- **[Abrir en Blender](entrega_final/Vigias_del_Umbral.blend)**: personaje editable, rig, biblioteca interna, cámaras y texturas empaquetadas.
+- [GLB con rig y texturas](entrega_final/Vigias_del_Umbral.glb).
+- [Biblioteca de accesorios](entrega_final/Biblioteca_Umbral.blend): 29 maestros y tres conjuntos reutilizables, sin depender del personaje.
+- [Informe final](entrega_final/INFORME_FINAL.md), [comprobación de requisitos](entrega_final/MATRIZ_REQUISITOS.md) y [auditoría del nativo](entrega_final/auditoria_nativo.json).
 
-![Soldado v2](soldado_raso_v2/renders/personaje.png)
-![Vista posterior](soldado_raso_v2/renders/espalda.png)
+12.964 vértices, 24.674 triángulos, 46 mallas, cinco materiales, 14 mapas y 52 huesos. Hay 25 anclajes. Rig FK básico, sin IK, controles faciales ni ciclos terminados. Se revisaron nueve imágenes estáticas y siete posturas de flexión.
 
-## Refinamiento en curso
+La geometría queda un 23,37 % por encima del extremo orientativo de 20.000 triángulos. Se conservan rostro, dedos, articulaciones y equipo reutilizable completo; la reducción y su justificación están en el informe. La entrega incluye un único nivel de detalle.
 
-[07_Rig.blend](refinamiento_en_curso/07_Rig.blend) es el avance más reciente del refinamiento: rostro, uniforme, desgaste, botas, biblioteca modular y ajustes del rig. Se conserva como un punto de control de trabajo; la revisión de la fase 7 y las fases 8 y 9 siguen pendientes.
+![Vigías del Umbral, cuerpo completo](entrega_final/renders/tres_cuartos.png)
+![Vista posterior](entrega_final/renders/posterior.png)
 
-- [Biblioteca_Umbral.blend](refinamiento_en_curso/Biblioteca_Umbral.blend): 29 piezas maestras y tres conjuntos reutilizables, con catálogos de Blender.
-- 13.523 vértices, 25.792 triángulos, 46 mallas del personaje, cinco materiales y 52 huesos. Los maestros y vistas de biblioteca no se suman a estas cifras.
-- Rig FK básico, sin ciclos terminados de caminar o correr. Las imágenes de poses son pruebas de deformación.
-- Texturas empaquetadas. Las fases pendientes incluyen la evaluación final de materiales y presupuesto de triángulos y las pruebas de entrega.
-- [Mapa humanoide](refinamiento_en_curso/humanoide.json) y [catálogo de accesorios](refinamiento_en_curso/catalogo.json).
+Abrir el `.blend` y pulsar F12 para renderizar el cuerpo completo. Las cámaras `FINAL` incluyen frontal, posterior, lateral, tres cuartos, rostro y detalles. El [informe](entrega_final/INFORME_FINAL.md) explica cómo activarlas y reutilizar accesorios.
 
-Para reutilizar accesorios, usa el navegador de assets o `File > Append`. Para exportar el personaje refinado, incluye su colección `CENIZA | Modular`, con mallas, rig y anclajes; excluye `MODULAR_LIBRARY` y las escenas de catálogo.
+## Versiones anteriores
 
-## Fuentes y comprobaciones
+- [Ceniza_Modular_v2.blend](soldado_raso_v2/Ceniza_Modular_v2.blend), [GLB v2](soldado_raso_v2/Ceniza_Modular_v2.glb) y [biblioteca v2](soldado_raso_v2/Biblioteca_Ceniza_v2.blend): corrección inicial de cantimplora y proporciones de botas, conservada como versión anterior.
+- [Checkpoint de rig de fase 7](refinamiento_en_curso/07_Rig.blend): avance publicado antes de terminar las últimas fases. La entrega actual está en `entrega_final/`.
 
-Los créditos y licencias de los assets de origen están en [FUENTES_Y_LICENCIAS.md](FUENTES_Y_LICENCIAS.md) y [LICENSE.ASSETS.md](LICENSE.ASSETS.md). El archivo de licencia corresponde a los assets de origen descritos en los créditos.
+## Fuentes y verificación
 
-[verificacion_publicacion.json](verificacion_publicacion.json) registra la apertura de los nativos y el empaquetado de imágenes. [manifest_sha256.json](manifest_sha256.json) permite comprobar la integridad de los archivos publicados.
+Créditos de los assets de origen en [FUENTES_Y_LICENCIAS.md](FUENTES_Y_LICENCIAS.md) y texto de licencia en [LICENSE.ASSETS.md](LICENSE.ASSETS.md). La licencia conservada corresponde a los assets descritos en esos créditos.
+
+[Revisión de imágenes finales](entrega_final/revision_visual.json), [pruebas de GLB](entrega_final/auditoria_glb.json) y [manifiesto SHA-256](manifest_sha256.json). Las auditorías históricas de `validacion/` describen sus respectivos puntos de control; los renders de la entrega actual están en `entrega_final/renders/` y `entrega_final/poses/`.
