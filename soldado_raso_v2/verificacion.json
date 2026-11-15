@@ -1,0 +1,39 @@
+{
+  "native": {
+    "vertices": 12870,
+    "triangles": 24621,
+    "meshes": 44,
+    "materials": 5,
+    "bones": 52,
+    "packed_images": 14,
+    "max_weights": 4,
+    "canteen_attachment": "two belt loops, bottom cradle; carrier and bottle both weighted to pelvis"
+  },
+  "boots": {
+    "L": {
+      "length_m": 0.29006391763687134,
+      "forefoot_width_m": 0.10777498781681061,
+      "sole_upper_m": 0.0258
+    },
+    "R": {
+      "length_m": 0.29008419811725616,
+      "forefoot_width_m": 0.10777498781681061,
+      "sole_upper_m": 0.0258
+    }
+  },
+  "glb": {
+    "meshes": 44,
+    "triangles": 24621,
+    "materials": 5,
+    "images": 14,
+    "joints": 52,
+    "bounds_error_m": 8.344650268554688e-07
+  },
+  "unchanged_meshes": 40,
+  "library": {
+    "assets": 23,
+    "rig_dependencies": 0,
+    "updated_canteen_assets": 2
+  },
+  "canteen_export_tangents": true
+}

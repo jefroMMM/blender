@@ -1,0 +1,33 @@
+{
+  "blend_files": [
+    {
+      "file": "soldado_raso_v2/Ceniza_Modular_v2.blend",
+      "mesh_objects_all_scenes": 45,
+      "rigs": 1,
+      "packed_images_used": 14,
+      "opens": true
+    },
+    {
+      "file": "soldado_raso_v2/Biblioteca_Ceniza_v2.blend",
+      "mesh_objects_all_scenes": 23,
+      "rigs": 0,
+      "packed_images_used": 9,
+      "opens": true
+    },
+    {
+      "file": "refinamiento_en_curso/07_Rig.blend",
+      "mesh_objects_all_scenes": 122,
+      "rigs": 1,
+      "packed_images_used": 14,
+      "opens": true
+    },
+    {
+      "file": "refinamiento_en_curso/Biblioteca_Umbral.blend",
+      "mesh_objects_all_scenes": 75,
+      "rigs": 0,
+      "packed_images_used": 9,
+      "opens": true
+    }
+  ],
+  "glb_header_valid": true
+}

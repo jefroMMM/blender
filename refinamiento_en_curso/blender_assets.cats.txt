@@ -1,0 +1,10 @@
+# Blender Asset Catalog Definition File
+VERSION 1
+5d49ca5e-9355-5923-b4a1-4a3106a6885c:Helmets:Helmets
+889d1893-718c-5ac8-a894-43aed2100cee:Backpacks:Backpacks
+bd32ab48-b3b4-5d67-809d-c9d009deea45:Belts:Belts
+6a379c8c-0b6b-5b0b-8815-10287c92f773:Pouches:Pouches
+fe41ee4b-2172-5806-904e-6836deae4c05:Canteens:Canteens
+6ee664f0-a9d0-5f0e-b6fe-158a20943107:Boots:Boots
+19253426-9f9d-5758-8a4d-49a726abc418:Utility_Props:Utility_Props
+f7ef4c02-6906-51fb-9fc0-58a4d40a9d18:Repairs:Repairs

@@ -1,0 +1,22 @@
+{
+  "SHIRT | Cuerpo y mangas": {
+    "elbow_vertices_regularized": 245
+  },
+  "REPAIR | Codo.R": {
+    "weights_transferred": 219
+  },
+  "STRAP | Tirante.L": {
+    "webbing_weights_regularized": 100
+  },
+  "STRAP | Tirante.R": {
+    "webbing_weights_regularized": 101
+  },
+  "STRAP | Regulador.L": {
+    "mode": "rigid spine anchor",
+    "vertices": 120
+  },
+  "STRAP | Regulador.R": {
+    "mode": "rigid spine anchor",
+    "vertices": 120
+  }
+}

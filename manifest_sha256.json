@@ -1,0 +1,147 @@
+[
+  {
+    "file": ".gitattributes",
+    "bytes": 157,
+    "sha256": "4995d0ff05178848885d73b55715c88e905082c085fa4a5253ca106341f4913a"
+  },
+  {
+    "file": ".gitignore",
+    "bytes": 59,
+    "sha256": "1c3567957d42750543a7b281d86f2cdc5d2b02d5dc71619e8c48988453524ad4"
+  },
+  {
+    "file": "FUENTES_Y_LICENCIAS.md",
+    "bytes": 1309,
+    "sha256": "783c76eaad5052fa69aa21c58ee24231f98b90a0974bb868a1edd68d498b56f9"
+  },
+  {
+    "file": "LICENSE.ASSETS.md",
+    "bytes": 6962,
+    "sha256": "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
+  },
+  {
+    "file": "README.md",
+    "bytes": 2600,
+    "sha256": "8296f5304caf5ca8c5e1eb0da6020df8a79ac3a44dcd6dd2f16efa310e0ef7e4"
+  },
+  {
+    "file": "refinamiento_en_curso/07_Rig.blend",
+    "bytes": 19632274,
+    "sha256": "b72af0ae84b300abd4704f02c664191154c2af6ddfd4137ac34013a74b55c00d"
+  },
+  {
+    "file": "refinamiento_en_curso/Biblioteca_Umbral.blend",
+    "bytes": 12196508,
+    "sha256": "48b6d130d75b1a0b38b2df98e1a0e071c0843fa8c530fbfb2c6c4b6ad3ec40d7"
+  },
+  {
+    "file": "refinamiento_en_curso/blender_assets.cats.txt",
+    "bytes": 484,
+    "sha256": "258df23d932e0d87b6c6ff7b35b62fc055790af4a9e2e7c5a0e8d997c63bf466"
+  },
+  {
+    "file": "refinamiento_en_curso/catalogo.json",
+    "bytes": 21561,
+    "sha256": "c07ebff66162741cf6816a62fc20eae0cdd6dbd446523f8fbff606f29f05f2fa"
+  },
+  {
+    "file": "refinamiento_en_curso/catalogo/biblioteca_conjuntos.png",
+    "bytes": 1072165,
+    "sha256": "2f997e10623ce2481ab7187c2a4e06b48a2709911f63bc69cae21045c013fa1a"
+  },
+  {
+    "file": "refinamiento_en_curso/catalogo/biblioteca_piezas.png",
+    "bytes": 2696860,
+    "sha256": "2e1322fef2f5448ec9f661959430a95b29e6c64e2446eab0a17e5f7cbc2379e3"
+  },
+  {
+    "file": "refinamiento_en_curso/correcciones_pesos.json",
+    "bytes": 446,
+    "sha256": "7c6fd8abe1b0543f240fa887ca9f75cce83f004dc59ff18277e189453b91fa71"
+  },
+  {
+    "file": "refinamiento_en_curso/esqueleto.json",
+    "bytes": 18885,
+    "sha256": "029e4a741ac6fc1a710ce11e5878293b5ecab7bec052b493475d2d6eae4457f4"
+  },
+  {
+    "file": "refinamiento_en_curso/humanoide.json",
+    "bytes": 1740,
+    "sha256": "dd44f6235a6ca3c4634068487cfaad09329adecb80e8e5aff5cc504c96ab20e7"
+  },
+  {
+    "file": "refinamiento_en_curso/poses/agachado.png",
+    "bytes": 873402,
+    "sha256": "6719080be06d58f926cecb5ff8cbd9f135e9f70f773ae716f45fc68fe30fd506"
+  },
+  {
+    "file": "refinamiento_en_curso/poses/brazos_arriba.png",
+    "bytes": 827273,
+    "sha256": "61438307dead722999d8f32b64fcf0ca7abcea4197c31a7e2047b6280379ad20"
+  },
+  {
+    "file": "refinamiento_en_curso/poses/caminar.png",
+    "bytes": 834515,
+    "sha256": "9a1dde027a8ecbaf93491a6ed6d216a96ba6f82b6b0f60e0a1307e4e610a47d8"
+  },
+  {
+    "file": "refinamiento_en_curso/poses/codos.png",
+    "bytes": 836469,
+    "sha256": "c27e219221f0b68cda944731c84198094d6e665af88dcc761b2a1bedbdbaa641"
+  },
+  {
+    "file": "refinamiento_en_curso/pruebas_finales.json",
+    "bytes": 23886,
+    "sha256": "450312181ef325b83ff54b395479508babbb79c5945518cdbdeb42861744efe0"
+  },
+  {
+    "file": "soldado_raso_v2/Biblioteca_Ceniza_v2.blend",
+    "bytes": 10560566,
+    "sha256": "286ff6a99150cc99aa718524f8e8631529d831360b62507f6bde97115d660729"
+  },
+  {
+    "file": "soldado_raso_v2/Ceniza_Modular_v2.blend",
+    "bytes": 18252896,
+    "sha256": "16a5968d7e72e5a55cf809ab4990e7a43c4cb2bbcd937bbf429dcdf9ad94c3a9"
+  },
+  {
+    "file": "soldado_raso_v2/Ceniza_Modular_v2.glb",
+    "bytes": 19189744,
+    "sha256": "07adfb278912fe62f14ce38320df5ff03446c745c5b5ad6f16cfa9a3fbe69a44"
+  },
+  {
+    "file": "soldado_raso_v2/estadisticas.json",
+    "bytes": 95,
+    "sha256": "97db454169ac58179318cfeea8e098f56bc5f489745b0e639820d8e78a053fe2"
+  },
+  {
+    "file": "soldado_raso_v2/renders/botas_final.png",
+    "bytes": 770693,
+    "sha256": "4c723279b6ce904241683491dd2b09166107429848de07b07ce3080008fb5497"
+  },
+  {
+    "file": "soldado_raso_v2/renders/cantimplora_final.png",
+    "bytes": 818551,
+    "sha256": "c4d8846e41b36e872778edd71a3f390858367625f1d47aaa577b8e721c464f4e"
+  },
+  {
+    "file": "soldado_raso_v2/renders/espalda.png",
+    "bytes": 1172335,
+    "sha256": "987206d1653e8110a401bacefb6b998121a5257497efab11582819d56872781c"
+  },
+  {
+    "file": "soldado_raso_v2/renders/personaje.png",
+    "bytes": 1179827,
+    "sha256": "64e42814e5e3a4d5f53ed9fc444b10bfea51f031874f70c8a1387b3de633870f"
+  },
+  {
+    "file": "soldado_raso_v2/verificacion.json",
+    "bytes": 872,
+    "sha256": "0cf9ffbb5a17579789b082eacd34c91be2a9ae90cd25348cd04417799ea34460"
+  },
+  {
+    "file": "verificacion_publicacion.json",
+    "bytes": 761,
+    "sha256": "717cb60925a36d882069bb5e1e3fbd16d9c3afd7bc1f82fc6db1163152425432"
+  }
+]
